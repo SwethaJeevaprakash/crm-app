@@ -2,8 +2,7 @@
 
 # Create lead.
 def create_lead():
-  print 'Lead resource creation pushed to background worker.'
-  print 'Lead resource creation in progress.'
+  print 'Lead resource created.'
 
 # Update lead.
 def update_lead():
